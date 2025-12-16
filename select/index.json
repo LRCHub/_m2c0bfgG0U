@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "泣き出しそうだよ",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-16T15:53:51.142014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "泣き出しそうだよ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_泣き出しそうだよ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "泣き出しそうだよ",
+      "artist": "RADWIMPS feat. あいみょん",
+      "has_synced": true,
+      "path": "select/02_泣き出しそうだよ_RADWIMPS_feat._あいみょん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "泣き出しそうだよ feat.あいみょん",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_泣き出しそうだよ_feat.あいみょん_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泣き出しそうだよ feat.あいみょん",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_泣き出しそうだよ_feat.あいみょん_RADWIMPS.txt"
+    }
+  ]
+}
